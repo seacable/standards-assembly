@@ -31,8 +31,9 @@
 
 ## 快速开始
 
-**方式一：直接使用成品**
-下载 `dist/` 下的 HTML（浏览器打开）或 PDF（517 页），即可使用全部导航功能。
+**方式一：直接使用成品（推荐从 Releases 下载）**
+打开 [Releases 页](https://github.com/seacable/standards-assembly/releases/latest)，下载 HTML（浏览器直接打开）或 PDF（517 页），即可使用全部导航功能。
+（`dist/` 目录是同一份文件的存档；因单文件超过 25MB，GitHub 网页无法在线预览、点击会提示 "Invalid PDF"，属正常现象，请从 Releases 下载后本地使用。）
 
 **方式二：用技能制作自己的汇编**
 把 `SKILL.md` 放入 AI 助手的技能目录（如 Trae 的 `.trae/skills/` 或 Claude 的 skills 目录），然后对 AI 说：
